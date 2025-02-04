@@ -74,7 +74,7 @@ export function LoginPage() {
         <div className="text-center space-y-6">
           <div className="flex flex-col items-center">
             <div className="w-16 h-16 bg-white-600 rounded-xl flex items-center justify-center shadow-lg">
-              <img src="/Icon.png" alt="Nexora Logo"></img>
+              <img src="/assets/Icon-DaJVHgnW.png" alt="Nexora Logo"></img>
             </div>
             <h1 className="mt-4 text-2xl font-bold text-blue-600">NEXORA SMART BPMN</h1>
           </div>
